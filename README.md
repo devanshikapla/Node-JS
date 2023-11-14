@@ -1,37 +1,51 @@
 The repository includes practice with basic Node.js modules such as uuid, nodemon, http, path, fs (file system), and os.
 
 Event:
+
 Description: The Event module in Node.js provides a mechanism for handling and responding to asynchronous events in a program.
+
 Usage: Developers can create custom events, emit them when certain conditions are met, and define listeners to respond to these events.
 
 
 Path:
+
 Description: The Path module is used for handling and manipulating file paths. It provides methods to work with file and directory paths independently of the operating system.
+
 Usage: Developers can use the Path module to ensure correct path formatting and perform operations such as joining paths and extracting file extensions.
 
 
 OS:
+
 Description: The OS module provides methods for interacting with the underlying operating system. It allows developers to retrieve information about the system, such as the platform, architecture, and memory usage.
+
 Usage: Developers can use the OS module to gather system-related information and make decisions or optimizations based on the operating environment.
 
 
 UUID:
+
 Description: The UUID module is used to generate universally unique identifiers. These identifiers are typically employed to ensure the uniqueness of entities in various applications.
+
 Usage: Developers can use the UUID module to generate unique identifiers for elements like database records, ensuring their distinctiveness across the system.
 
 
 HTTP:
+
 Description: The HTTP module in Node.js allows the creation of HTTP servers and handling of HTTP requests and responses. It is a core module that facilitates building web applications.
+
 Usage: Developers can use the HTTP module to create server-side logic, handle incoming HTTP requests, and send appropriate responses.
 
 
 FS (File System):
+
 Description: The File System module provides methods for interacting with the file system. It allows reading from and writing to files, creating directories, and performing various file-related operations.
+
 Usage: Developers can use the FS module to manipulate files and directories, such as reading from or writing to files, checking file existence, and managing file permissions.
 
 
 URL:
+
 Description: The URL module provides utilities for working with URLs, including parsing and formatting. It simplifies tasks related to handling and manipulating URLs in web applications.
+
 Usage: Developers can use the URL module to parse incoming URLs, construct URLs dynamically, and extract information such as query parameters.
 
 
